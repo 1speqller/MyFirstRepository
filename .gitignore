@@ -2,7 +2,5 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-*.vsidx
-*.sqlite
-/.vs/slnx.sqlite
-/.vs/slnx.sqlite
+/.vs
+
